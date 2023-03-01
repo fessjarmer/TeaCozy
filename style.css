@@ -117,10 +117,10 @@ margin: auto;
 .locationbackground {
 width: 1200px;
 height: 500px;
+background-image: url(./images/img-locations-background.jpeg);
 }
 
 .locations {
-position: absolute;
 text-align: center;
 background-color: black;
 padding: 40px;
